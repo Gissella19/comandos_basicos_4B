@@ -1,7 +1,11 @@
 *.log
 *.tmp
 /bin
-node_modules
+/node_modules
 *.err
 *.env
+.vscode/
+.DS_Store
+*.bak
+indicaciones.info
 
