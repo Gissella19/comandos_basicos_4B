@@ -7,5 +7,6 @@
 .vscode/
 .DS_Store
 *.bak
-indicaciones.info
-
+*indicaciones.info
+jspm_packages/
+web_modules/
