@@ -1,1 +1,3 @@
-# comandos_basicos
+# PROYECTO DE comandos_basicos
+## MANEJO Y CONFIGURACION DE SOFTWARE
+### PARALELO B
